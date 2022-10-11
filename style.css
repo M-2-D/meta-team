@@ -1,0 +1,26 @@
+li{
+    display: inline-block;
+    margin-right: 100px;
+}
+a{
+    margin-right: 20px;
+    text-decoration: none;
+color:black;
+border-radius: 10%;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+#mo{
+    text-align: right;
+
+}
+h1{
+    text-align: center;
+    color: deepskyblue;
+}
+p{
+    text-align: center;
+    color: black;
+}
