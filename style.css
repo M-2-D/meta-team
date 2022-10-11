@@ -1,26 +1,16 @@
-li{
-    display: inline-block;
-    margin-right: 100px;
-}
-a{
-    margin-right: 20px;
-    text-decoration: none;
-color:black;
-border-radius: 10%;
-}
-a:hover{
-    background-color: black;
-    color: white;
-}
-#mo{
-    text-align: right;
-
-}
 h1{
     text-align: center;
-    color: deepskyblue;
+    background-color: darkcyan;
+    border-radius: 25px;
+    color: white;
 }
-p{
-    text-align: center;
-    color: black;
+a{
+color: rgb(121, 13, 85);
+padding: 18px;
+top: -20px;
+text-decoration: none;
+}
+h3{
+    color: rgb(15, 15, 15);
+    padding: 30px;
 }
